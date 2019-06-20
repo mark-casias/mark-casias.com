@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "mark-casias-com",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A quick and dirty blog because the domain was available",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Mark Casias <markie@teampoop.com>",
   "dependencies": {
     "gatsby": "^2.9.11",
     "gatsby-image": "^2.1.4",
@@ -35,9 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/mark-casias/mark-casias.com"
   }
 }
